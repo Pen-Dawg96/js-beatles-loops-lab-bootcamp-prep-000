@@ -21,7 +21,7 @@ function iLoveTheBeatles(n){
   
   let i = 15
   do {
-    console.log('I love the Beatles!')
+    arr.push('I love the Beatles!')
    } while(i < 8) 
    return arr 
 }
